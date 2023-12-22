@@ -49,6 +49,13 @@ JavaScript is one of the 3 languages all web developers must learn:
 
 ![image](https://github.com/A-Wahab-Aamir/JS_1/assets/83786802/709794d6-233d-403a-a7c8-b3a8598b3d5a)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Javascript Youtube Video|  Class 1 | Project 1 | Daya 1 
+
+https://www.youtube.com/watch?v=_RLVSKcllKo
+
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abdul0999.netlify.app/)
