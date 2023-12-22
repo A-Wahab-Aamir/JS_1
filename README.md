@@ -30,6 +30,25 @@ JavaScript is one of the 3 languages all web developers must learn:
 3. JavaScript to program the behavior of web pages
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Most Used Javascript Libraries and Framework 
+
+![image](https://github.com/A-Wahab-Aamir/JS_1/assets/83786802/293c508e-5460-4d58-9cb2-d2f6a94f8a3d)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Stack OverFlow Suervey About Javacsript 
+
+![image](https://github.com/A-Wahab-Aamir/JS_1/assets/83786802/7c96a0ab-f64f-41ae-bda7-1653033f782b)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Comparing Capabilities of Other Programming Lang with Javascript 
+
+![image](https://github.com/A-Wahab-Aamir/JS_1/assets/83786802/709794d6-233d-403a-a7c8-b3a8598b3d5a)
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abdul0999.netlify.app/)
