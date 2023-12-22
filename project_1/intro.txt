@@ -1,0 +1,31 @@
+what is jaavscript ?
+
+javascript is a programming language 
+	a scripting langaugae 
+	a server side or client side language 
+
+we are using js in developing 
+	frontend
+	backend development
+	mobile app
+	desktop app
+	server app
+
+what are the papular frameworks/library of javacsript
+	react / react native 
+	angular js
+	node js
+	ember js
+	vue js
+	three js
+	jquery (library)
+
+we use jaavscript to make webpages more interactive and we use it to make our website more dynamic , dynamic means to act and react according to user/viewer behavour
+
+
+
+OOP object oriented programming 
+	classes / objects
+	to implements real world problems , we consider 
+all as a object and then solve it in our porgramming 
+python and java uses OOP concepts 
